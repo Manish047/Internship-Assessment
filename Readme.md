@@ -1,6 +1,6 @@
 # Internship-Assessment
 
-The task was to create a webpage, refernece for which was given through a link (Figma).
+The task was to create a webpage, reference for which was given through a link(Figma).
 
 ## Try it yourself
 
